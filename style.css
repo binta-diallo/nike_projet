@@ -1,0 +1,130 @@
+body{
+    margin: 0;
+    font-family: 'Rokkitt', serif;
+    height: 100vh;
+
+}
+a{
+    color: black;
+    font-family: 'Rokkitt', serif;
+    font-size: 19px;
+    text-decoration:none;
+}
+
+#navbar1{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(243, 230, 247, 0.562);
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.logo{
+    width: 100px;
+    height: 30px;
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(243, 230, 247, 0.562);
+}
+#navbar2{
+    display: flex;
+    justify-content: space-between;
+}
+.lognike{
+
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+textarea{
+    height: 20px;
+    width: 100px;
+    border-radius: 50px;
+    border: solid black 1px;
+    background-color:rgba(243, 230, 247, 0.562);
+
+}
+
+.search{
+
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.lien1{
+    width:280px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.lien2{
+
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pic1nike{
+    border:solid 50px rgba(243, 230, 247, 0.562);   ;
+    height: 600px;
+}
+.pic2nike{
+    border: solid brown 2px;
+    height: 500px;
+}
+.main{
+    height: 600px;
+    width: 370px;
+}
+h3{
+    text-align: center;
+}
+h1{
+    font-size: 6em;
+    font-weight: bolder;
+    text-align:center;
+
+}
+p{
+    margin-top: 0px;
+    font-size: 1.5em;
+    text-align: center;
+}
+.text{
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.prem{
+    background-color: black;
+    color: cornsilk;
+    font-size: 2em;
+    margin-right: 10px;
+    border-radius: 20px;
+
+
+}
+
+.deux{
+    background-color:black ;
+    color: cornsilk;
+    font-size: 2em;
+    margin-left: 10px;
+    border-radius:25px;
+
+
+}
+.buttom{
+    display: flex;
+    justify-content:center ;
+}
+
